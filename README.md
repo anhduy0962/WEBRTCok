@@ -8,3 +8,5 @@ Ex: in put in FQDN: 10.8.0.2 --> press Get IP we have IP: 10.8.0.2
 
 --> click connect button. --> finished 
 
+P/S: using Firefox or Microsoft Edge to open file webrtc_linux.html 
+
